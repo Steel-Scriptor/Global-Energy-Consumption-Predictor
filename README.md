@@ -1,0 +1,1 @@
+Developed a machine learning model predicting global energy consumption with 99% accuracy using a 75-feature dataset spanning biofuel, coal, gas, hydro, nuclear, renewables, solar, and wind across countries and years.
